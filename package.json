@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/andymaul123/moodboards#readme",
   "dependencies": {
+    "fs-extra": "^5.0.0",
+    "image-size": "^0.6.2",
     "opn": "^5.1.0"
   }
 }
