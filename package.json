@@ -1,0 +1,22 @@
+{
+  "name": "moodboards",
+  "version": "1.0.0",
+  "description": "Creates tiled mood boards from directory of files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymaul123/moodboards.git"
+  },
+  "author": "Andrew Maul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andymaul123/moodboards/issues"
+  },
+  "homepage": "https://github.com/andymaul123/moodboards#readme",
+  "dependencies": {
+    "opn": "^5.1.0"
+  }
+}
